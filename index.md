@@ -1,10 +1,7 @@
 <html>
 <head>
   <title>Timeline Project</title>
-   <meta name="viewport" content="width=device-width, initial-scale=1", maximum-scale=1.0>
-   <link rel="stylesheet"
-   href="https://fonts.googleapis.com/css2?family=Crimson+Pro">
-  <link href='style.css' rel='stylesheet'>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
   <script src='script.js'></script>
