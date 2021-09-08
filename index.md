@@ -7,7 +7,7 @@
 <body>
   <script src='script.js'></script>
   <h1>2600 MYA - Prokaryotic to Eukaryotic Cell Evolution
-    </h1>2.6 billion years ago, prokaryotic cells evolved to eukaryotic cells, signalling the start of a bacterial revolution (placeholder).
+    </h1>2.6 billion years ago, prokaryotic cells evolved to eukaryotic cells (placeholder).
       <p></p>
   <h2>Prokaryotic Cells</h2>
     <p>Placeholder</p>
