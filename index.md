@@ -28,7 +28,7 @@
     </p>
   <h2>
     Viral Eukaryogenesis Theory
-  </h2
+  </h2>
     <p>
       This theory states that the cell of eukaryotes evolved from a bacteriophage in the form of an endosymbiosis relationship with methane producing archeon. This theory suggests that eukaryotic cells have a viral ancestor for their nucleus, an archeal ancestor for cytoplasm, and a bacterial ancestor for mitochondria. This theory shares many parallels with the Symbiosis theory outlined above, but distinguishes that the nuclear material of the cell was derived from a viral infection of a methanogenic mycoplasma bacteria (generates a form of energy by synthesizing methane). Most notably, the theory outlines that mRNA capping, linear chromosomes, and separation of transcription from translation are evidence that the nucleus of a eukaryotic cell has viral origin (7). 
     </p>
