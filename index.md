@@ -10,7 +10,7 @@
    2600 MYA - Prokaryotic to Eukaryotic Cell Evolution
   </h1>
     <p>
-2.7 billion years ago, life on earth consisted of only microbes and single cell organisms called prokaryotes. Evolution and the emergence of eukaryotic cells was an important milestone as it laid the foundations for complex life. Many different theories seek to describe the evolution of eukaryotic cells, however no theory has yet been thoroughly established. Currently, the most popular theory is the Endosymbiotic Theory, which describes the evolutionary relationship between prokaryotic and eukaryotic cells. This article outlines the aforementioned theory, as well as some lesser known conjectures, including Viral Eukaryogenesis. 
+      2.7 billion years ago, life on earth consisted of only microbes and single cell organisms called prokaryotes. Evolution and the emergence of eukaryotic cells was an important milestone as it laid the foundations for complex life. Many different theories seek to describe the evolution of eukaryotic cells, however no theory has yet been thoroughly established. Currently, the most popular theory is the Endosymbiotic Theory, which describes the evolutionary relationship between prokaryotic and eukaryotic cells. This article outlines the aforementioned theory, as well as some lesser known conjectures, including Viral Eukaryogenesis. 
     </p>
   <h2>
      Prokaryotic and Eukaryotic Cells
@@ -37,6 +37,6 @@
   </h2>
     <p>
       There are many different theories describing the evolution from prokaryotic to eukaryotic cells, however, the prevailing explanation is the Endosymbiotic Theory. This theory postulates that a symbiotic relationship exists for prokaryotic bacteria derived organelles that are contained within a eukaryotic cell. Evidence for this theory concerns the similarity between mitochondria, chloroplasts, and normal prokaryotic bacteria, as well as genetic similarities within organelles and other proteins of the eukaryotic cell. The Viral Eukaryogenesis Theory postulates that the nucleus of a eukaryotic cell has viral origin. In essence, the development of the eukaryotic cell laid the foundation for multicellular life.
-  </p>
+    </p>
 </body>
 </html>
